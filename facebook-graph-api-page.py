@@ -41,7 +41,7 @@ page_user_demographics = "/page_fans,page_fans_locale,page_fans_city,page_fans_c
 
 page_id = "facebook" # Inser the page id or name
 
-token = "EAACEdEose0cBADGuex87nTy9vuEDQEA2C4WzEWDWyZALy48HneKzRh5ACVN67grtJLlISggFQHew7v7mPJNGQUabqkSyhgUjKxEnyZCs4xnXmfWiisU1zbNfG4zotJ4Ikpqimd5Vu8XQUh4RyiCYWCZBZAXh8CYX43IaHTFlzwZDZD"  # Access Token
+token = "YOUR_TOKEN"  # Access Token
 
 page_data = get_page_data(page_id,token,profile_info,profile)
 
